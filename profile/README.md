@@ -13,3 +13,7 @@ We are passionate about ensuring that everyone has the opportunity to enjoy a vi
 - Mostly located in the US (with a few exceptions)
 - Have minimal meetings (a short morning standup and longer weekly call)
 - Occasionally get together for meetups at the company HQ in Dufur, OR (they’re super fun with lots of healthy tasty food, especially the carob)
+
+## Interested in working with us?
+
+View our current openings at [azurestandard.com/careers](https://www.azurestandard.com/careers).
